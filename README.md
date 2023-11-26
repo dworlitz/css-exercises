@@ -1,0 +1,1 @@
+On this repository I will be practicing my first exercises on CSS styles for The Odin Project.
